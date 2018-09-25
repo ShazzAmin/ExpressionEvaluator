@@ -2,7 +2,7 @@ Expression Evaluator
 ====================
 *by Shazz Amin*
 
-Parses and evaluates mathematical expressions in prefix, infix and postfix notation.
+Mathematical expression parser and evaluator.
 
 ### Features
 * Supports addition (+), subtraction (-), multiplication (\*), division (/), modulus (%)
